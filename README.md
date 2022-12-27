@@ -1,2 +1,2 @@
 # n4sid-demo
-pythonのn4sidのデモ
+pythonのn4sidのサンプルプログラム
